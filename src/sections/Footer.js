@@ -9,7 +9,7 @@ function Footer() {
 
       <p className="text-center">
         <strong>
-          incase of any issues, dont hesitate to contact us via:{" "}
+          incase of any issues, dont hesitate to contact me via:{" "}
           <i>0768793923</i>
         </strong>
       </p>

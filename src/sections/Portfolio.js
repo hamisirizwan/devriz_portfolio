@@ -8,7 +8,7 @@ function Portfolio() {
           <div className="section-title">
             <h2>Notable projects</h2>
             <p>
-              Actions speak better than words. Using the listed skills, here are
+              Actions speak louder than words. Using the listed skills, here are
               some of the projects i have build.
             </p>
           </div>

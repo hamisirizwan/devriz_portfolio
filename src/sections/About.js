@@ -10,9 +10,9 @@ function About() {
           <div className="section-title">
             <h2>About</h2>
             <p>
-              Rizwan Hamisi alas devriz is a self taught fullstack web and
+              Rizwan Hamisi alias devriz is a self taught fullstack web and
               mobile app developer based in the coastal city of Mombasa, Kenya.
-              With almost 3 years of experience in frondend and backend web
+              With almost 3 years of experience in frontend and backend web
               development, I can literary build web applications with the
               current trending javascript frontend and backend tools. I have
               build several websites as a freelancer and now set for a fulltime
@@ -35,7 +35,7 @@ function About() {
                   <ul>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>Birthday:</strong> 13 August 1998
+                      <strong>Name:</strong> Ridhwan Hamisi
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
@@ -58,7 +58,7 @@ function About() {
                   <ul>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>Age:</strong> 24
+                      <strong>Nationality:</strong> Kenyan
                     </li>
 
                     <li>
