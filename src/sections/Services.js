@@ -8,10 +8,9 @@ function Services() {
           <div className="section-title">
             <h2>Services</h2>
             <p>
-              Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-              ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-              quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-              Quia fugiat sit in iste officiis commodi quidem hic quas.
+              With my current expertize in programming and web development, i
+              can offer a wide range of software services needed in the current
+              digital era.
             </p>
           </div>
           <div className="row">
@@ -41,8 +40,8 @@ function Services() {
                   <a href>website development</a>
                 </h4>
                 <p>
-                  Voluptatum deleniti atque corrupti quos dolores et quas
-                  molestias excepturi
+                  with my frondend skills, i can develop a fully functional and
+                  responsive website
                 </p>
               </div>
             </div>
@@ -72,8 +71,8 @@ function Services() {
                   <a href>web applications</a>
                 </h4>
                 <p>
-                  Duis aute irure dolor in reprehenderit in voluptate velit esse
-                  cillum dolore
+                  As a fullstack webdeveloper, i can develop a fully interactive
+                  website that gives your users the perfect user experience
                 </p>
               </div>
             </div>
@@ -103,8 +102,8 @@ function Services() {
                   <a href>Mobile App developmet</a>
                 </h4>
                 <p>
-                  Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                  qui officia
+                  With knowledge of ReactNative, i can build a crossplatform
+                  mobile application that can run in both android and IOS.
                 </p>
               </div>
             </div>
@@ -134,8 +133,9 @@ function Services() {
                   <a href>Payment APIs intergration</a>
                 </h4>
                 <p>
-                  At vero eos et accusamus et iusto odio dignissimos ducimus qui
-                  blanditiis
+                  I provide a wide range of API intergrations ranging from
+                  finance. e.g (mpesa daraja api),paypal,card payments. as well
+                  as many api intergrations that could suit your website.
                 </p>
               </div>
             </div>

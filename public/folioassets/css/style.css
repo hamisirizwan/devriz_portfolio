@@ -884,7 +884,7 @@ section {
 }
 
 .services .iconbox-orange i {
-  color: #ffa76e;
+  color: #34b7a7;
 }
 
 .services .iconbox-orange:hover .icon i {
@@ -892,7 +892,7 @@ section {
 }
 
 .services .iconbox-orange:hover .icon path {
-  fill: #ffa76e;
+  fill: #34b7a7;
 }
 
 .services .iconbox-pink i {
