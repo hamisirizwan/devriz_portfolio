@@ -40,7 +40,9 @@ function About() {
                     <li>
                       <i className="icofont-rounded-right" />{" "}
                       <strong>Website:</strong>
-                      <a href=" devriz.co.ke"></a> devriz.co.ke
+                      <a href=" https://devriz.herokuapp.com" target="_blank">
+                        devriz.co.ke
+                      </a>
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
@@ -65,7 +67,10 @@ function About() {
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>github:</strong> https://github.com/hamisirizwan
+                      <strong>github:</strong>{" "}
+                      <a href="https://github.com/hamisirizwan" target="_blank">
+                        https://github.com/hamisirizwan
+                      </a>
                     </li>
                   </ul>
                 </div>

@@ -15,9 +15,7 @@ function Hero() {
           <h2 style={{ color: "black", textAlign: "center" }}>
             I'm a professional software developer based Mombasa, Kenya
           </h2>
-          <a href="about.html" className="btn-about">
-            About Me
-          </a>
+          <a className="btn-about">About Me</a>
         </div>
       </section>
     </div>

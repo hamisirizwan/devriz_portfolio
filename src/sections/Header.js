@@ -16,16 +16,16 @@ function Header() {
 
           {/* .nav-menu */}
           <div className="header-social-links">
-            <a href="#" className="twitter">
+            <a className="twitter">
               <i className="icofont-twitter" />
             </a>
-            <a href="#" className="facebook">
+            <a className="facebook">
               <i className="icofont-facebook" />
             </a>
-            <a href="#" className="instagram">
+            <a className="instagram">
               <i className="icofont-instagram" />
             </a>
-            <a href="#" className="linkedin">
+            <a className="linkedin">
               <i className="icofont-linkedin" />
             </a>
           </div>

@@ -42,18 +42,19 @@ function Portfolio() {
                   with use of mpesa api, you can now save your bills and pay
                   them without having to remember the payment details.
                 </p>
-
-                <button
-                  className="btn "
-                  style={{
-                    marginTop: 15,
-                    backgroundColor: "#34b7a7",
-                    color: "white",
-                    fontSize: 20,
-                  }}
-                >
-                  view live site
-                </button>
+                <a href="https://biller-client.herokuapp.com" target="blank">
+                  <button
+                    className="btn "
+                    style={{
+                      marginTop: 15,
+                      backgroundColor: "#34b7a7",
+                      color: "white",
+                      fontSize: 20,
+                    }}
+                  >
+                    view live site
+                  </button>
+                </a>
               </div>
             </div>
             <div
@@ -86,18 +87,19 @@ function Portfolio() {
                   and ebook pdf delivery intantly via automated email
                   intergrations.
                 </p>
-
-                <button
-                  className="btn "
-                  style={{
-                    marginTop: 15,
-                    backgroundColor: "#34b7a7",
-                    color: "white",
-                    fontSize: 20,
-                  }}
-                >
-                  view live site
-                </button>
+                <a href="https://p-d-f-store.herokuapp.com" target="_blank">
+                  <button
+                    className="btn "
+                    style={{
+                      marginTop: 15,
+                      backgroundColor: "#34b7a7",
+                      color: "white",
+                      fontSize: 20,
+                    }}
+                  >
+                    view live site
+                  </button>
+                </a>
               </div>
             </div>
             <div
@@ -126,18 +128,19 @@ function Portfolio() {
                   <a href>COVID DATA APP</a>
                 </h4>
                 <p>provides real time covid19 data for specific countries.</p>
-
-                <button
-                  className="btn "
-                  style={{
-                    marginTop: 15,
-                    backgroundColor: "#34b7a7",
-                    color: "white",
-                    fontSize: 20,
-                  }}
-                >
-                  view live site
-                </button>
+                <a href="https://covid-by-riz.herokuapp.com" target="_blank">
+                  <button
+                    className="btn "
+                    style={{
+                      marginTop: 15,
+                      backgroundColor: "#34b7a7",
+                      color: "white",
+                      fontSize: 20,
+                    }}
+                  >
+                    view live site
+                  </button>
+                </a>
               </div>
             </div>
           </div>
