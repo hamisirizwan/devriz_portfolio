@@ -1,5 +1,6 @@
 import React from "react";
 import Skills from "./Skills";
+import aboutimg from "../images/hero_bg.jpeg";
 
 function About() {
   return (
@@ -9,40 +10,45 @@ function About() {
           <div className="section-title">
             <h2>About</h2>
             <p>
-              Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-              ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-              quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-              Quia fugiat sit in iste officiis commodi quidem hic quas.
+              Rizwan Hamisi alas devriz is a self taught fullstack web and
+              mobile app developer based in the coastal city of Mombasa, Kenya.
+              With almost 3 years of experience in frondend and backend web
+              development, I can literary build web applications with the
+              current trending javascript frontend and backend tools. I have
+              build several websites as a freelancer and now set for a fulltime
+              software development career
             </p>
           </div>
           <div className="row">
             <div className="col-lg-4">
-              <img src="assets/img/about.jpg" className="img-fluid" alt />
+              <img src={aboutimg} className="img-fluid" alt />
             </div>
             <div className="col-lg-8 pt-4 pt-lg-0 content">
-              <h3>Illustrator &amp; UI/UX Designer</h3>
+              <h3>fullstack &amp; WEB/MOBILE Developer</h3>
               <p className="font-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Below is a small biograph of myself. i can describe myself as
+                young, competent and energetic person who is ready to learn and
+                adapt to changes in the industry
               </p>
               <div className="row">
                 <div className="col-lg-6">
                   <ul>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>Birthday:</strong> 1 May 1995
+                      <strong>Birthday:</strong> 13 August 1998
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>Website:</strong> www.example.com
+                      <strong>Website:</strong>
+                      <a href=" devriz.co.ke"></a> devriz.co.ke
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>Phone:</strong> +123 456 7890
+                      <strong>Phone:</strong> +254768793923
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>City:</strong> City : New York, USA
+                      <strong>City:</strong> City : Mombasa, KENYA
                     </li>
                   </ul>
                 </div>
@@ -50,32 +56,20 @@ function About() {
                   <ul>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>Age:</strong> 30
+                      <strong>Age:</strong> 24
+                    </li>
+
+                    <li>
+                      <i className="icofont-rounded-right" />{" "}
+                      <strong>Email:</strong> devriz2030@gmail.com
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>Degree:</strong> Master
-                    </li>
-                    <li>
-                      <i className="icofont-rounded-right" />{" "}
-                      <strong>PhEmailone:</strong> email@example.com
-                    </li>
-                    <li>
-                      <i className="icofont-rounded-right" />{" "}
-                      <strong>Freelance:</strong> Available
+                      <strong>github:</strong> https://github.com/hamisirizwan
                     </li>
                   </ul>
                 </div>
               </div>
-              <p>
-                Officiis eligendi itaque labore et dolorum mollitia officiis
-                optio vero. Quisquam sunt adipisci omnis et ut. Nulla
-                accusantium dolor incidunt officia tempore. Et eius omnis.
-                Cupiditate ut dicta maxime officiis quidem quia. Sed et
-                consectetur qui quia repellendus itaque neque. Aliquid amet
-                quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis
-                culpa magni laudantium dolores.
-              </p>
             </div>
           </div>
         </div>
