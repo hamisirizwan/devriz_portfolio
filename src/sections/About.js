@@ -10,13 +10,13 @@ function About() {
           <div className="section-title">
             <h2>About</h2>
             <p>
-              Rizwan Hamisi alias devriz is a self taught fullstack web and
-              mobile app developer based in the coastal city of Mombasa, Kenya.
-              With almost 3 years of experience in frontend and backend web
-              development, I can literary build web applications with the
-              current trending javascript frontend and backend tools. I have
-              build several websites as a freelancer and now set for a fulltime
-              software development career
+              Rizwan Hamisi aka Devriz is a self taught FullStack Web and
+              Mobile Developer based in the coastal city of Mombasa, Kenya.
+              With almost 3 years of experience in both Frontend and Backend web
+              development, I can literally build Web Applications with the
+              current trending Javascript Frontend and Backend tools. I have
+              built several websites as a Freelancer and now set for a fulltime
+              Software Development Career.
             </p>
           </div>
           <div className="row">
@@ -24,11 +24,9 @@ function About() {
               <img src={aboutimg} className="img-fluid" alt />
             </div>
             <div className="col-lg-8 pt-4 pt-lg-0 content">
-              <h3>fullstack &amp; WEB/MOBILE Developer</h3>
+              <h3>FullStack Web &amp; MOBILE Developer</h3>
               <p className="font-italic">
-                Below is a small biograph of myself. i can describe myself as
-                young, competent and energetic person who is ready to learn and
-                adapt to changes in the industry
+              Rizwan Hamisi is fueled by his passion for understanding the nuances of cross-cultural technologies.He considers himself a ‘forever student,’ eager to both build on his technological foundations in Technology and stay in tune with the latest technological advancement through continued coursework and professional development.
               </p>
               <div className="row">
                 <div className="col-lg-6">
@@ -50,7 +48,7 @@ function About() {
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>City:</strong> City : Mombasa, KENYA
+                      <strong>City:</strong> Mombasa, KENYA
                     </li>
                   </ul>
                 </div>
@@ -67,7 +65,7 @@ function About() {
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>github:</strong>{" "}
+                      <strong>Github:</strong>{" "}
                       <a href="https://github.com/hamisirizwan" target="_blank">
                         https://github.com/hamisirizwan
                       </a>

@@ -9,8 +9,10 @@ function Footer() {
 
       <p className="text-center">
         <strong>
-          incase of any issues, dont hesitate to contact me via:{" "}
-          <i>0768793923</i>
+          Lets grab a coffee and discuss about your next big project. My inbox is always open whether you have a question or just want to say hi. <br/><br/> Lets get in touch :{" "}<br/><br/>
+          Email : <i>devriz2030@gmail.com</i><br/>
+          Contact : <i>0768793923</i><br/>
+
         </strong>
       </p>
       <p
@@ -22,13 +24,13 @@ function Footer() {
       >
         ©dev_riz {year}
         <br />
-        designed by{" "}
+        Designed by{" "}
         <a
-          style={{ textDecoration: "none" }}
+          style={{ textDecoration: "none", fontWeight:"bold" }}
           className="text-success"
           href="https://wa.me/254768793923"
         >
-          contact developer
+          Devriz with ❤️
         </a>
       </p>
     </footer>

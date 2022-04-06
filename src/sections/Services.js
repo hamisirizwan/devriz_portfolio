@@ -8,9 +8,7 @@ function Services() {
           <div className="section-title">
             <h2>Services</h2>
             <p>
-              With my current expertize in programming and web development, i
-              can offer a wide range of software services needed in the current
-              digital era.
+              Since I am both knowledgable in Frontend and Backend Development, here are some of the services that I offer to make your Web Application faster, robust and convenient.
             </p>
           </div>
           <div className="row">
@@ -37,11 +35,11 @@ function Services() {
                   <i className="bx bxl-dribbble" />
                 </div>
                 <h4>
-                  <a href>website development</a>
+                  <a href>Website Development</a>
                 </h4>
                 <p>
-                  with my frondend skills, i can develop a fully functional and
-                  responsive website
+                  With my Frontend Skills, I can develop a fully functional and
+                  responsive website for your business.
                 </p>
               </div>
             </div>
@@ -68,11 +66,11 @@ function Services() {
                   <i className="bx bx-file" />
                 </div>
                 <h4>
-                  <a href>web applications</a>
+                  <a href>Web Applications</a>
                 </h4>
                 <p>
-                  As a fullstack webdeveloper, i can develop a fully interactive
-                  website that gives your users the perfect user experience
+                  As a FullStack Web Developer, I can develop a fully interactive
+                  Web Application that gives your clients the perfect user experience with a top notch design making them come back for more.
                 </p>
               </div>
             </div>
@@ -102,8 +100,8 @@ function Services() {
                   <a href>Mobile App developmet</a>
                 </h4>
                 <p>
-                  With knowledge of ReactNative, i can build a crossplatform
-                  mobile application that can run in both android and IOS.
+                  With knowledge of React Native, I build crossplatform
+                  mobile applications that can both run on Android and IOS.
                 </p>
               </div>
             </div>
@@ -133,9 +131,8 @@ function Services() {
                   <a href>Payment APIs intergration</a>
                 </h4>
                 <p>
-                  I provide a wide range of API intergrations ranging from
-                  finance. e.g (mpesa daraja api),paypal,card payments. as well
-                  as many api intergrations that could suit your website.
+                  I provide a wide range of API intergrations that would suite your business website, ranging from
+                  local payment intergrations e.g (mpesa daraja api), to international intergrations e.g paypal and card payments.
                 </p>
               </div>
             </div>

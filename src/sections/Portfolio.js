@@ -9,7 +9,7 @@ function Portfolio() {
             <h2>Notable projects</h2>
             <p>
               Actions speak louder than words. Using the listed skills, here are
-              some of the projects i have build.
+              some of the projects I have built.
             </p>
           </div>
           <div className="row">
@@ -36,11 +36,11 @@ function Portfolio() {
                   <i className="bx bx-file" />
                 </div>
                 <h4>
-                  <a href>BILLER|| bill management</a>
+                  <a href>BILLER || Bill Management</a>
                 </h4>
                 <p>
-                  with use of mpesa api, you can now save your bills and pay
-                  them without having to remember the payment details.
+                  With the use of Mpesa Api, you can now save your bills and pay
+                  them without having to remember your payment details.
                 </p>
                 <a href="https://biller-client.herokuapp.com" target="blank">
                   <button
@@ -52,7 +52,7 @@ function Portfolio() {
                       fontSize: 20,
                     }}
                   >
-                    view live site
+                    View live site
                   </button>
                 </a>
               </div>
@@ -80,11 +80,11 @@ function Portfolio() {
                   <i className="bx bx-file" />
                 </div>
                 <h4>
-                  <a href>p-d-f-STORE</a>
+                  <a href>Pdf Store</a>
                 </h4>
                 <p>
-                  An online ebook selling site. intant payment with mpesa api
-                  and ebook pdf delivery intantly via automated email
+                  An online E-book selling site intergrated with the Mpesa Api for payments
+                  and fast E-book pdf delivery enabled via automated email
                   intergrations.
                 </p>
                 <a href="https://p-d-f-store.herokuapp.com" target="_blank">
@@ -97,7 +97,7 @@ function Portfolio() {
                       fontSize: 20,
                     }}
                   >
-                    view live site
+                    View live site
                   </button>
                 </a>
               </div>
@@ -127,7 +127,7 @@ function Portfolio() {
                 <h4>
                   <a href>COVID DATA APP</a>
                 </h4>
-                <p>provides real time covid19 data for specific countries.</p>
+                <p>Provides Real-Time Covid-19 data for specific countries.</p>
                 <a href="https://covid-by-riz.herokuapp.com" target="_blank">
                   <button
                     className="btn "
@@ -138,7 +138,7 @@ function Portfolio() {
                       fontSize: 20,
                     }}
                   >
-                    view live site
+                    View live site
                   </button>
                 </a>
               </div>
