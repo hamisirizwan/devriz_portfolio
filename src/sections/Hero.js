@@ -3,19 +3,24 @@ import React from "react";
 function Hero() {
   return (
     <div>
-      <section id="hero" className="d-flex align-items-center">
+      <section id="hero" className="d-flex align-items-left">
         <div
-          className="container d-flex flex-column align-items-center"
+          className="container d-flex flex-column align-items-left"
           data-aos="zoom-in"
           data-aos-delay={100}
         >
-          <h1 style={{ color: "black", fontWeight: "bolder" }}>
-            RIZWAN HAMISI
+          <p class='intro' style={{fontWeight:"bold"}}>Hi, my name is</p>
+          
+          <h1 style={{ color: "black", fontWeight: "bolder"}}>
+          Rizwan Hamisi.
           </h1>
-          <h2 style={{ color: "black", textAlign: "center" }}>
-            I'm a professional software developer based Mombasa, Kenya
+          <h1 style={{ color: "#34b7a7",paddingTop:"10px", fontWeight: "bolder"}}>
+            I build Applications for the Web.
+          </h1>
+          <h2 style={{ color: "black", textAlign: "left",lineHeight:"30px" }}>
+I’m a Software Developer specializing in building (and occasionally designing) exceptional digital experiences
           </h2>
-          <a className="btn-about">About Me</a>
+          <button className="btn-about"><a href="#about">Explore</a></button>
         </div>
       </section>
     </div>
