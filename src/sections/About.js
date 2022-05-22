@@ -21,7 +21,7 @@ function About() {
           </div>
           <div className="row">
             <div className="col-lg-4">
-              <img src={aboutimg} className="img-fluid" alt />
+              <img src={aboutimg} className="img-fluid" alt="devriz" />
             </div>
             <div className="col-lg-8 pt-4 pt-lg-0 content">
               <h3>fullstack &amp; WEB/MOBILE Developer</h3>
@@ -35,22 +35,22 @@ function About() {
                   <ul>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>Name:</strong> Ridhwan Hamisi
+                      <strong>Name : </strong> Ridhwan Hamisi
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>Website:</strong>
+                      <strong>Website : </strong>
                       <a href=" https://devriz.herokuapp.com" target="_blank">
-                        devriz.co.ke
+                        devriz.herokuapp.com
                       </a>
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>Phone:</strong> +254768793923
+                      <strong>Phone :</strong> +254768793923
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>City:</strong> City : Mombasa, KENYA
+                      <strong>City : </strong>Mombasa, KENYA
                     </li>
                   </ul>
                 </div>
@@ -58,17 +58,21 @@ function About() {
                   <ul>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>Nationality:</strong> Kenyan
+                      <strong>Nationality :</strong> Kenyan
                     </li>
 
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>Email:</strong> devriz2030@gmail.com
+                      <strong>Email : </strong> devriz2030@gmail.com
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>github:</strong>{" "}
-                      <a href="https://github.com/hamisirizwan" target="_blank">
+                      <strong>github : </strong>{" "}
+                      <a
+                        href="https://github.com/hamisirizwan"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
                         https://github.com/hamisirizwan
                       </a>
                     </li>

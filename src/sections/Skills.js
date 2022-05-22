@@ -37,9 +37,9 @@ function Skills() {
                   <div
                     className="progress-bar"
                     role="progressbar"
-                    aria-valuenow={90}
-                    aria-valuemin={0}
-                    aria-valuemax={100}
+                    now={90}
+                    min={0}
+                    max={100}
                   />
                 </div>
               </div>
