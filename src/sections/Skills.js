@@ -8,8 +8,8 @@ function Skills() {
           <div className="section-title">
             <h2>Skills</h2>
             <p>
-              As a self taught programmer, i have struggled and managed to
-              understand the current trends in the industry. below are some of
+              As a Self Taught Developer, I have overcomed the challenges and
+              understood the current trends in the Technological Industry. Below are some of
               the skills that am competent in.
             </p>
           </div>
