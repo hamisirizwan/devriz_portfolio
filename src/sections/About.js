@@ -10,10 +10,10 @@ function About() {
           <div className="section-title">
             <h2>About</h2>
             <p>
-              Rizwan Hamisi alias devriz is a self taught fullstack web and
-              mobile app developer based in the coastal city of Mombasa, Kenya.
-              With almost 3 years of experience in frontend and backend web
-              development, I can literary build web applications with the
+              Rizwan Hamisi alias <b>Devriz</b> is a self taught fullstack web
+              and mobile app developer based in the coastal city of Mombasa,
+              Kenya. With almost 3 years of experience in frontend and backend
+              web development, I can literary build web applications with the
               current trending javascript frontend and backend tools. I have
               build several websites as a freelancer and now set for a fulltime
               software development career
@@ -26,7 +26,7 @@ function About() {
             <div className="col-lg-8 pt-4 pt-lg-0 content">
               <h3>fullstack &amp; WEB/MOBILE Developer</h3>
               <p className="font-italic">
-                Below is a small biograph of myself. i can describe myself as
+                Below is a small biograph of myself. I can describe myself as
                 young, competent and energetic person who is ready to learn and
                 adapt to changes in the industry
               </p>
@@ -41,7 +41,7 @@ function About() {
                       <i className="icofont-rounded-right" />{" "}
                       <strong>Website : </strong>
                       <a href=" https://devriz.herokuapp.com" target="_blank">
-                        devriz.herokuapp.com
+                        https://devriz.vercel.app
                       </a>
                     </li>
                     <li>

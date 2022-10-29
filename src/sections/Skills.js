@@ -8,7 +8,7 @@ function Skills() {
           <div className="section-title">
             <h2>Skills</h2>
             <p>
-              As a self taught programmer, i have struggled and managed to
+              As a self taught programmer, I have struggled and managed to
               understand the current trends in the industry. below are some of
               the skills that am competent in.
             </p>
@@ -16,90 +16,24 @@ function Skills() {
           <div className="row skills-content">
             <div className="col-lg-6">
               <div className="progress">
-                <span className="skill">
-                  FRONTEND <i className="val">100%</i>
-                </span>
-                <div className="progress-bar-wrap">
-                  <div
-                    className="progress-bar"
-                    role="progressbar"
-                    aria-valuenow={100}
-                    aria-valuemin={0}
-                    aria-valuemax={100}
-                  />
-                </div>
+                <span className="skill">FRONTEND</span>
               </div>
               <div className="progress">
-                <span className="skill">
-                  BACKEND <i className="val">90%</i>
-                </span>
-                <div className="progress-bar-wrap">
-                  <div
-                    className="progress-bar"
-                    role="progressbar"
-                    now={90}
-                    min={0}
-                    max={100}
-                  />
-                </div>
+                <span className="skill">BACKEND</span>
               </div>
               <div className="progress">
-                <span className="skill">
-                  MOBILE <i className="val">75%</i>
-                </span>
-                <div className="progress-bar-wrap">
-                  <div
-                    className="progress-bar"
-                    role="progressbar"
-                    aria-valuenow={75}
-                    aria-valuemin={0}
-                    aria-valuemax={100}
-                  />
-                </div>
+                <span className="skill">MOBILE</span>
               </div>
             </div>
             <div className="col-lg-6">
               <div className="progress">
-                <span className="skill">
-                  REACTJS <i className="val">80%</i>
-                </span>
-                <div className="progress-bar-wrap">
-                  <div
-                    className="progress-bar"
-                    role="progressbar"
-                    aria-valuenow={80}
-                    aria-valuemin={0}
-                    aria-valuemax={100}
-                  />
-                </div>
+                <span className="skill">REACTJS</span>
               </div>
               <div className="progress">
-                <span className="skill">
-                  NODE <i className="val">90%</i>
-                </span>
-                <div className="progress-bar-wrap">
-                  <div
-                    className="progress-bar"
-                    role="progressbar"
-                    aria-valuenow={90}
-                    aria-valuemin={0}
-                    aria-valuemax={100}
-                  />
-                </div>
+                <span className="skill">NODE</span>
               </div>
               <div className="progress">
-                <span className="skill">
-                  REACT NATIVE <i className="val">55%</i>
-                </span>
-                <div className="progress-bar-wrap">
-                  <div
-                    className="progress-bar"
-                    role="progressbar"
-                    aria-valuenow={55}
-                    aria-valuemin={100}
-                    aria-valuemax={100}
-                  />
-                </div>
+                <span className="skill">REACT NATIVE &amp; Flutter</span>
               </div>
             </div>
           </div>

@@ -87,7 +87,7 @@ function Portfolio() {
                   and ebook pdf delivery intantly via automated email
                   intergrations.
                 </p>
-                <a href="https://p-d-f-store.herokuapp.com" target="_blank">
+                <a href="https://pdf-store.vercel.app" target="_blank">
                   <button
                     className="btn "
                     style={{
