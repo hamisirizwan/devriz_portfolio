@@ -42,7 +42,7 @@ function Portfolio() {
                   with use of mpesa api, you can now save your bills and pay
                   them without having to remember the payment details.
                 </p>
-                <a href="https://biller.vercel.app" target="blank">
+                <a href="https://biller-ke.vercel.app" target="blank">
                   <button
                     className="btn "
                     style={{
