@@ -83,8 +83,8 @@ function Portfolio() {
                   <a href>p-d-f-STORE</a>
                 </h4>
                 <p>
-                  An online ebook selling site. intant payment with mpesa api
-                  and ebook pdf delivery intantly via automated email
+                  An online ebook selling site. instant payment with mpesa api
+                  and ebook pdf delivery intantly via automated whatsapp
                   intergrations.
                 </p>
                 <a href="https://pdf-store.vercel.app" target="_blank">

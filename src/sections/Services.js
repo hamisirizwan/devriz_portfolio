@@ -40,7 +40,7 @@ function Services() {
                   <a href>website development</a>
                 </h4>
                 <p>
-                  with my frondend skills, i can develop a fully functional and
+                  with my frontend skills, I can develop a fully functional and
                   responsive website
                 </p>
               </div>
@@ -71,7 +71,7 @@ function Services() {
                   <a href>web applications</a>
                 </h4>
                 <p>
-                  As a fullstack webdeveloper, i can develop a fully interactive
+                  As a fullstack webdeveloper, I can develop a fully interactive
                   website that gives your users the perfect user experience
                 </p>
               </div>
@@ -102,8 +102,9 @@ function Services() {
                   <a href>Mobile App developmet</a>
                 </h4>
                 <p>
-                  With knowledge of ReactNative, i can build a crossplatform
-                  mobile application that can run in both android and IOS.
+                  With knowledge of ReactNative &amp; Flutter, i can build a
+                  crossplatform mobile application that can run in both Android
+                  and IOS.
                 </p>
               </div>
             </div>
