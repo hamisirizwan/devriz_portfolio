@@ -1,4 +1,4 @@
-## My Portfolia Website
+## My Portfolio Website
 
 Get to know me better and what I can offer
 
