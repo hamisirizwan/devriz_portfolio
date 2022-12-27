@@ -40,8 +40,8 @@ function About() {
                     <li>
                       <i className="icofont-rounded-right" />{" "}
                       <strong>Website : </strong>
-                      <a href=" https://devriz.herokuapp.com" target="_blank">
-                        https://devriz.vercel.app
+                      <a href=" https://devriz.vercel.app" target="_blank">
+                        https://devriz.xyz
                       </a>
                     </li>
                     <li>
