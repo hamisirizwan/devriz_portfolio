@@ -11,12 +11,11 @@ function About() {
             <h2>About</h2>
             <p>
               Rizwan Hamisi alias <b>Devriz</b> is a self taught fullstack web
-              and mobile app developer based in the coastal city of Mombasa,
-              Kenya. With almost 3 years of experience in frontend and backend
+              and mobile app developer based in Nairobi,
+              Kenya. With over 4 years of experience in frontend and backend
               web development, I can literary build web applications with the
               current trending javascript frontend and backend tools. I have
-              build several websites as a freelancer and now set for a fulltime
-              software development career
+              build several websites as a freelancer and as well as in the fulltime job space.
             </p>
           </div>
           <div className="row">
@@ -50,7 +49,7 @@ function About() {
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>City : </strong>Mombasa, KENYA
+                      <strong>City : </strong>Nairobi, KENYA
                     </li>
                   </ul>
                 </div>

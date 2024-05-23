@@ -13,7 +13,7 @@ function Hero() {
             RIZWAN HAMISI
           </h1>
           <h2 style={{ color: "black", textAlign: "center" }}>
-            I'm a professional software developer based Mombasa, Kenya
+            I'm a professional software developer based Nairobi, Kenya
           </h2>
           <a className="btn-about">About Me</a>
         </div>

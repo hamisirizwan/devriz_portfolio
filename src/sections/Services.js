@@ -8,7 +8,7 @@ function Services() {
           <div className="section-title">
             <h2>Services</h2>
             <p>
-              With my current expertize in programming and web development, i
+              With my current expertize in programming and web development, I
               can offer a wide range of software services needed in the current
               digital era.
             </p>

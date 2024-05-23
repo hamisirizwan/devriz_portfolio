@@ -64,23 +64,18 @@ function Portfolio() {
             >
               <div className="icon-box iconbox-orange">
                 <div style={{ overflow: "hidden" }}>
-                  <img
-                    src={etiketi}
-                    alt="daraja docs"
-                    className="img-fluid w-100"
-                  />
+                  <img src={pdf} alt="pdf store" className="img-fluid w-100" />
                 </div>
                 <h4>
-                  <a href="#">E-tiketi</a>
+                  <a href="#">Ebook Store Kenya</a>
                 </h4>
                 <p>
-                  E-tiketi enables you to manage and sell your events tickets
-                  online. Integrated with online payment tools, You can easily
-                  post your events and people can seamlessly book for the with
-                  just a click of a button
+                  An online ebook selling site. instant payment with mpesa api
+                  and pdf ebook delivery instantly via automated whatsapp
+                  intergrations.
                 </p>
                 <a
-                  href="https://e-tiketi.vercel.app/"
+                  href="https://kreativestore.vercel.app"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -98,6 +93,7 @@ function Portfolio() {
                 </a>
               </div>
             </div>
+           
             <div
               className="col-lg-4 col-md-6 d-flex align-items-stretch"
               data-aos="zoom-in"
@@ -146,18 +142,23 @@ function Portfolio() {
             >
               <div className="icon-box iconbox-orange">
                 <div style={{ overflow: "hidden" }}>
-                  <img src={pdf} alt="pdf store" className="img-fluid w-100" />
+                  <img
+                    src={etiketi}
+                    alt="daraja docs"
+                    className="img-fluid w-100"
+                  />
                 </div>
                 <h4>
-                  <a href="#">p-d-f-STORE</a>
+                  <a href="#">E-tiketi</a>
                 </h4>
                 <p>
-                  An online ebook selling site. instant payment with mpesa api
-                  and ebook pdf delivery intantly via automated whatsapp
-                  intergrations.
+                  E-tiketi enables you to manage and sell your events tickets
+                  online. Integrated with online payment tools, You can easily
+                  post your events and people can seamlessly book for the with
+                  just a click of a button
                 </p>
                 <a
-                  href="https://pdf-store.devriz.xyz/"
+                  href="https://e-tiketi.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -175,7 +176,7 @@ function Portfolio() {
                 </a>
               </div>
             </div>
-            <div
+            {/* <div
               className="col-lg-4 col-md-6 d-flex align-items-stretch"
               data-aos="zoom-in"
               data-aos-delay={100}
@@ -218,7 +219,7 @@ function Portfolio() {
                   </button>
                 </a>
               </div>
-            </div>
+            </div> */}
             <div
               className="col-lg-4 col-md-6 d-flex align-items-stretch"
               data-aos="zoom-in"

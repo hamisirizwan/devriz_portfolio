@@ -27,10 +27,10 @@ function Skills() {
             </div>
             <div className="col-lg-6">
               <div className="progress">
-                <span className="skill">REACTJS</span>
+                <span className="skill">REACTJS &amp; NextJs</span>
               </div>
               <div className="progress">
-                <span className="skill">NODE</span>
+                <span className="skill">NODE &amp; NextJs</span>
               </div>
               <div className="progress">
                 <span className="skill">REACT NATIVE &amp; Flutter</span>
