@@ -10,7 +10,7 @@ function About() {
           <div className="section-title">
             <h2>About</h2>
             <p>
-              Rizwan Hamisi alias <b>Devriz</b> is a self taught fullstack web
+              Rizwan Hamisi alias <b>Devriz</b> is a fullstack web
               and mobile app developer based in Nairobi,
               Kenya. With over 4 years of experience in frontend and backend
               web development, I can literary build web applications with the
