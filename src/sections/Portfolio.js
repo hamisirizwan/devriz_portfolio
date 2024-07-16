@@ -65,6 +65,84 @@ function Portfolio() {
             >
               <div className="icon-box iconbox-orange">
                 <div style={{ overflow: "hidden" }}>
+                  <img
+                    src={apiwap}
+                    alt="apiwap"
+                    className="img-fluid w-100"
+                  />
+                </div>
+                <h4>
+                  <a href="#">Apiwap</a>
+                </h4>
+                <p>
+                  Apiwap is a platform that provides whatsapp automation services. Provides apis to programically send and receive whatsapp messages
+                </p>
+                <a
+                  href="https://e-tiketi.vercel.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <button
+                    className="btn"
+                    style={{
+                      marginTop: 15,
+                      backgroundColor: "#34b7a7",
+                      color: "white",
+                      fontSize: 20,
+                    }}
+                  >
+                    View Live Site
+                  </button>
+                </a>
+              </div>
+            </div>
+
+
+            <div
+              className="col-lg-4 col-md-6 d-flex align-items-stretch"
+              data-aos="zoom-in"
+              data-aos-delay={100}
+            >
+              <div className="icon-box iconbox-orange">
+                <div style={{ overflow: "hidden" }}>
+                  <img
+                    src={kreativestores}
+                    alt="apiwap"
+                    className="img-fluid w-100"
+                  />
+                </div>
+                <h4>
+                  <a href="#">Kreativestores</a>
+                </h4>
+                <p>
+                  Kreative stores is a platform for content creators to diversify their revenue streams. With kreativestores, a content creator can create an online store, upload and sell digital products, monetize whatsapp groups as well as manage thier one on one sessions.
+                </p>
+                <a
+                  href="https://kreativestores.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <button
+                    className="btn"
+                    style={{
+                      marginTop: 15,
+                      backgroundColor: "#34b7a7",
+                      color: "white",
+                      fontSize: 20,
+                    }}
+                  >
+                    View Live Site
+                  </button>
+                </a>
+              </div>
+            </div>
+            <div
+              className="col-lg-4 col-md-6 d-flex align-items-stretch"
+              data-aos="zoom-in"
+              data-aos-delay={100}
+            >
+              <div className="icon-box iconbox-orange">
+                <div style={{ overflow: "hidden" }}>
                   <img src={pdf} alt="pdf store" className="img-fluid w-100" />
                 </div>
                 <h4>
@@ -268,87 +346,6 @@ function Portfolio() {
                 </a>
               </div>
             </div>
-
-            {/* new projects */}
-            <div
-              className="col-lg-4 col-md-6 d-flex align-items-stretch"
-              data-aos="zoom-in"
-              data-aos-delay={100}
-            >
-              <div className="icon-box iconbox-orange">
-                <div style={{ overflow: "hidden" }}>
-                  <img
-                    src={apiwap}
-                    alt="apiwap"
-                    className="img-fluid w-100"
-                  />
-                </div>
-                <h4>
-                  <a href="#">Apiwap</a>
-                </h4>
-                <p>
-                  Apiwap is a platform that provides whatsapp automation services. Provides apis to programically send and receive whatsapp messages
-                </p>
-                <a
-                  href="https://e-tiketi.vercel.app/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <button
-                    className="btn"
-                    style={{
-                      marginTop: 15,
-                      backgroundColor: "#34b7a7",
-                      color: "white",
-                      fontSize: 20,
-                    }}
-                  >
-                    View Live Site
-                  </button>
-                </a>
-              </div>
-            </div>
-
-
-            <div
-              className="col-lg-4 col-md-6 d-flex align-items-stretch"
-              data-aos="zoom-in"
-              data-aos-delay={100}
-            >
-              <div className="icon-box iconbox-orange">
-                <div style={{ overflow: "hidden" }}>
-                  <img
-                    src={kreativestores}
-                    alt="apiwap"
-                    className="img-fluid w-100"
-                  />
-                </div>
-                <h4>
-                  <a href="#">Kreativestores</a>
-                </h4>
-                <p>
-                  Kreative stores is a platform for content creators to diversify their revenue streams. With kreativestores, a content creator can create an online store, upload and sell digital products, monetize whatsapp groups as well as manage thier one on one sessions.
-                </p>
-                <a
-                  href="https://kreativestores.com/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <button
-                    className="btn"
-                    style={{
-                      marginTop: 15,
-                      backgroundColor: "#34b7a7",
-                      color: "white",
-                      fontSize: 20,
-                    }}
-                  >
-                    View Live Site
-                  </button>
-                </a>
-              </div>
-            </div>
-            {/* ends here */}
           </div>
         </div>
       </section>
