@@ -78,7 +78,7 @@ function Portfolio() {
                   Apiwap is a platform that provides whatsapp automation services. Provides apis to programically send and receive whatsapp messages
                 </p>
                 <a
-                  href="https://e-tiketi.vercel.app/"
+                  href="https://apiwap.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
